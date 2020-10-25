@@ -2,6 +2,11 @@ package com.Javapackage;
 
 public class A 
 {
+	public void sub()
+	{ 
+		int a,b,c;
+	}
+	
 	public void add()
 	{ int a,b,c;
 	 c=a+b;
