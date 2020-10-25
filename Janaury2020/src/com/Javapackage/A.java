@@ -6,6 +6,10 @@ public class A
 	{ int a,b,c;
 	 c=a+b;
 	}
+	public void sub()
+		{int a,b,c;
+		c=a-b;
+			}
 		
 	int x=100,y=200,z;
 	public static void main(String[] args) {
