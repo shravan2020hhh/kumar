@@ -4,7 +4,7 @@ public class A
 {
 	public void sub()
 	{ 
-		int a,b,c;
+		int a,b,c,d;
 	}
 	
 	public void add()
